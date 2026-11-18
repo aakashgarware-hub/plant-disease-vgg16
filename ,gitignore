@@ -1,0 +1,4 @@
+PlantVillage-Dataset/
+PlantVillage_clean/
+*.h5
+*.keras
