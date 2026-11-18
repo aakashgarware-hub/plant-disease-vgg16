@@ -45,7 +45,7 @@ Observations:
 Confusion matrices and prediction samples are in the notebook outputs.
 
 ## How to run
-Open `plant_disease_vgg16.ipynb` and run the cells in order.
+Open notebooks/plant_disease_vgg16.ipynb and run the cells in order.
 Paths use Kaggle locations (/kaggle/working/...). Change them if you run it elsewhere.
 Libraries: TensorFlow, OpenCV, scikit-learn, matplotlib, pandas, PIL.
 
